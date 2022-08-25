@@ -17,6 +17,8 @@ This project is an application called Note Taker that can be used to write and s
 
 ## Link to deployed app ##
 
+https://powerful-ridge-08886.herokuapp.com/
+
 
 
 
